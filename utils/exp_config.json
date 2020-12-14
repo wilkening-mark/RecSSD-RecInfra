@@ -1,0 +1,6 @@
+{
+  "model_type"                   : "wnd",
+  "inter_op_workers"             : "4",
+  "arch_sparse_feature_size"     : "64",
+  "num_indices_per_lookup_fixed" : "True"
+}
